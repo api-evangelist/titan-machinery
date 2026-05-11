@@ -16,6 +16,21 @@ specificationVersion: '0.19'
 common:
   - type: Website
     url: https://www.titanmachinery.com
+  - type: Integrations
+    url: https://www.titanmachinery.com/integrations
+integrations:
+  - name: Titan Machinery
+  - name: Agriculture
+  - name: Construction
+  - name: Government
+  - name: Application
+  - name: Service Tech Careers
+  - name: Business Ops Careers
+  - name: Career Development Programs
+  - name: About Us
+  - name: Bulldozer dozing 404
+  - name: Titan Trader Magazine
+  - name: CNH Industrial
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
