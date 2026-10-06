@@ -33,9 +33,11 @@ tags:
   - Farm Equipment
 description: Titan Machinery Inc. owns and operates one of the largest networks of full-service agricultural and construction equipment dealer stores in North America and Europe. The company sells, services, and rents new and used Case IH, New Holland, Case Construction, and other branded equipment, along with parts and precision farming technology. Titan Machinery serves farmers, ranchers, and construction contractors across multiple states and countries.
 created: '2026-05-04'
-modified: '2026-05-04'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 common:
+  - url: https://www.titanmachinery.com/our-company/news
+    type: Blog
   - type: DomainSecurity
     url: security/titan-machinery-domain-security.yml
   - type: LinkedIn
